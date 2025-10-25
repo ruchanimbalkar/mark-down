@@ -142,11 +142,11 @@ To write strikethrough text use the  two tilde symbols, which looks like a wavy 
 
 
 Example:
-| Java | JavasScript |
-|--------|--------|
-| BackEnd | FrontEnd and BackEnd |
-| Android Apps | Websites |
-| Easy | Easy |
+| Java | JavasScript | Python |
+|--------|--------|--------|
+| BackEnd | FrontEnd and BackEnd | Backend |
+| Android Apps | Websites | Not sure |
+| Easy | Easy | Easy |
 
 
 # How to add an aligned table ?
@@ -154,11 +154,6 @@ Example:
 | Left | Center | Right |
 |:-----|:------:|------:|
 | Cell | Cell | Cell |
-
-# How to write a code text ?
-`Myclass`
-
----
 
 # [Cheatsheet](https://onlinemarkdown.com/cheat-sheet)
 
